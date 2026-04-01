@@ -84,6 +84,31 @@ Repo : https://github.com/DialloAmo/End_to_End_ML_Pipeline
 
 ## Roadmap (2026)
 - ⏳ Stage : topology-aware-ml-for-cll
+topology-aware-ml-for-cll/
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── notebooks/
+│   ├── 00_setup.ipynb
+│   ├── 01_data_audit.ipynb
+│   ├── 02_preprocessing.ipynb
+│   ├── 03_tda_features.ipynb
+│   ├── 04_bio_to_clinical_prediction.ipynb
+│   ├── 05_clinical_to_bio_inference.ipynb
+│   └── 06_dynamic_modeling.ipynb
+├── src/
+│   ├── data/
+│   ├── topology/
+│   ├── models/
+│   ├── evaluation/
+│   └── visualization/
+├── data/
+│   ├── raw/
+│   ├── interim/
+│   └── processed/
+├── figures/
+├── reports/
+└── references/ 
 - ✅ Projet 1 : COVID Analysis — classification + tuning
 - ✅ Projet 2 : Customer Churn Prediction & Business Insights
 - ⏳ Projet 3 : Credit Risk Scoring (stat + ML + calibration + interprétabilité)
