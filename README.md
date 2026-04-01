@@ -14,6 +14,8 @@ Vous trouverez ici une sélection de projets réalisés de bout en bout : **anal
 - Les notebooks dans `notebooks/` (EDA + modèles)
 - La structure de code dans `src/` (pipeline, fonctions, reproductibilité)
 
+
+
 ---
 
 ## STAGE
@@ -39,7 +41,6 @@ L’objectif de ce stage en mathématiques appliquées est de développer **un p
 - Informatique : Programmation Python avancée (bibliothèques : GUDHI, Ripser, Scikit-learn, TensorFlow/PyTorch, DyNeR, etc.).
 - Machine Learning et analyse statistique.
 - Travail interdisciplinaire en modélisation biomédicale.
-
 ## Projets
 
 ### 1) COVID Analysis — Diagnostic Prediction (Classification)
