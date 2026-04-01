@@ -1,13 +1,13 @@
-# Projets Data Science — Diallo Amadou
+# Profile & Projets — Diallo Amadou
 
-Bienvenue dans mon portfolio Data Science / Machine Learning.  
-Vous trouverez ici une sélection de projets réalisés de bout en bout : **analyse**, **préprocessing**, **modélisation**, **évaluation**, et selon les cas **optimisation** et **industrialisation**.
+Bienvenue dans mon portfolio junior Data Scientist / ML Engineer / Research Engineer.  
+Vous trouverez ici une sélection de projets réalisés de bout en bout : **analyse**, **préprocessing**, **modélisation**, **évaluation**, et selon les cas **optimisation**, **industrialisation** et **Topology Data Analysis (TDA)**.
 
 ## Highlights
 - **Projets ML de bout en bout** : EDA → preprocessing → modèles → évaluation → optimisation (pipelines scikit-learn).
 - **Approche orientée impact** : choix de métriques adaptées (ex. **Recall** en santé / classification), analyse des erreurs (confusion matrix) et recommandations.
 - **Structuration** : repos reproductibles (conda/env), code organisé (`src/`), documentation claire (README + notebooks).
-- **Santé & données sensibles** : en parallèle, stage (mai → septembre) en laboratoire sur **TDA/ML appliqué à la leucémie**, avec objectif de transformer le stage en CDI.
+- **Santé & données sensibles** : en parallèle, stage (Avril → septembre) en laboratoire sur **Cartographie dynamique de la leucémie lymphoïde chronique : des indicateurs biologiques aux paramètres cliniques et inversement par l'approche TDA et Machine Learning**, un stage où l’on applique le machine learning et des méthodes d’ingénierie de recherche à des problèmes de biologie computationnelle.
 
 **Ce que vous pouvez regarder en priorité :**
 - Les **README** de chaque projet (objectif + résultats + limites)
@@ -59,6 +59,7 @@ Repo : https://github.com/DialloAmo/End_to_End_ML_Pipeline
 ---
 
 ## Roadmap (2026)
+- ⏳ Stage : topology-aware-ml-for-cll
 - ✅ Projet 1 : COVID Analysis — classification + tuning
 - ✅ Projet 2 : Customer Churn Prediction & Business Insights
 - ⏳ Projet 3 : Credit Risk Scoring (stat + ML + calibration + interprétabilité)
@@ -67,11 +68,11 @@ Repo : https://github.com/DialloAmo/End_to_End_ML_Pipeline
 ---
 
 ## Objectif & Disponibilités
-Je cherche un **CDD** en **Machine Learning Engineer / Data Scientist / Data Analyst**, idéalement en complément de mon stage en laboratoire (**mai → septembre**) portant sur **TDA/ML et données de leucémie**.  
-Objectif : **évoluer vers un CDI** à l’issue du stage (fin septembre).
+Je cherche un **CDD** en **junior Data Scientist / ML Engineer / Research Engineer**, idéalement en complément de mon stage en laboratoire en temps patiel (**Avril → septembre**).  
+Objectif : **Evoluer vers un CDI** à l’issue du stage (fin septembre).
 
 ## Ouvert aux missions : 
-Modélisation, data pipeline, Analyse de données, Reporting Avancé, Machine Learning Appliqué, Recheche & Développement Data 
+Modélisation & decision, data pipeline, Analyse de données, Reporting Avancé, Machine Learning Appliqué, Recheche & Développement Data 
 
 ## Contact :
 - GitHub : https://github.com/DialloAmo  
