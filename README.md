@@ -1,4 +1,82 @@
-# Profile & Projets — Diallo Amadou
+# Data Science & Machine Learning Portfolio — DIALLO Amadou
+
+## English version
+
+Welcome to my portfolio. This repository provides an overview of my work in data science, machine learning, and applied research.
+
+## Profile
+
+Junior Data Scientist / ML Engineer with a strong mathematical background.  
+I focus on building robust, interpretable, and reproducible machine learning systems.
+
+My work combines:
+- Business-oriented projects (churn prediction, risk modeling)
+- Applied machine learning workflows (pipelines, evaluation, interpretation)
+- Research-oriented approaches (topology-aware methods, high-dimensional data)
+
+---
+
+## Featured Projects
+
+### 1. COVID-19 Diagnostic Prediction
+Binary classification project to predict SARS-CoV-2 positivity from clinical and biological data.
+
+- Recall-oriented evaluation (healthcare context)
+- Precision–recall trade-off analysis
+- Pipeline-based modeling
+
+---
+
+### 2. Customer Churn Prediction *(Work in Progress)*
+Predict customer churn and extract actionable business insights.
+
+- Classification models
+- Feature importance & interpretability
+- Business-oriented decision support
+
+---
+
+### 3. Credit Risk Scoring *(Planned)*
+Credit default prediction with statistical and machine learning models.
+
+- Imbalanced data handling
+- Calibration and threshold tuning
+- Interpretability
+
+---
+
+### 4. End-to-End ML Pipeline *(Planned)*
+Production-style machine learning pipeline.
+
+- Training → prediction → monitoring
+- Reproducibility and structuring
+- Performance tracking and drift detection
+
+---
+
+## Current Work
+
+Research internship focused on topology-aware machine learning for high-dimensional biomedical data.
+
+- Topological Data Analysis (TDA)
+- Representation learning
+- Predictive modeling
+
+Due to data sensitivity, only high-level methodology and selected illustrations are shared publicly.
+
+---
+
+## Technical Stack
+
+- Python, Git, Conda  
+- pandas, NumPy, scikit-learn  
+- Machine Learning pipelines  
+- Model evaluation and interpretability  
+
+---
+
+
+## Version plus développée en français
 
 Bienvenue dans mon portfolio junior Data Scientist / ML Engineer / Research Engineer.  
 Vous trouverez ici une sélection de projets réalisés de bout en bout : **analyse**, **préprocessing**, **modélisation**, **évaluation**, et selon les cas **optimisation**, **industrialisation** et **Topology Data Analysis (TDA)**.
