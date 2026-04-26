@@ -178,7 +178,8 @@ Objectif : **Evoluer vers un CDI** à l’issue du stage (fin septembre).
 Modélisation & decision, data pipeline, Analyse de données, Reporting Avancé, Machine Learning Appliqué, Recheche & Développement Data 
 
 ## Contact :
-- GitHub : https://github.com/DialloAmo  
+- GitHub : https://github.com/DialloAmo
+- Website: https://DialloAmo.github.io/portfolio/  
 - LinkedIn : (ajoute ton lien)
 - Email : amadoudiallodjikesse@gmail.com
 
